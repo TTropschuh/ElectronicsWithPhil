@@ -2,7 +2,7 @@
 
 ## Circuits in general
 
-What is a circuit? BAsically it is a path that return to the beginning. If this is not the case, I'm gonna have a problem.
+What is a circuit? Basically it is a path that return to the beginning. If this is not the case, I'm gonna have a problem.
 Cool term I found: "Knife Switches". Opening and closing a circuit with a cooper plate pushing into the socket.
 
 ![knife switch](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimg1.etsystatic.com%2F000%2F0%2F5243317%2Fil_fullxfull.286022649.jpg&f=1&nofb=1)
@@ -63,3 +63,5 @@ Novel material could be anything that is conductive. I chose a penny that light 
 
 ![penny example](https://github.com/TTropschuh/ElectronicsWithPhil/blob/master/penny_example.jpg)
 ![penny example](https://github.com/TTropschuh/ElectronicsWithPhil/blob/master/penny_sketch.jpg)
+
+Helpful Links I used: https://diyodemag.com/education/fundamentals_five_circuits
