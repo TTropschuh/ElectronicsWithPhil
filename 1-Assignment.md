@@ -32,6 +32,10 @@ Apple example: I have 10 apples. A machine throws the amount of apples with 100 
 
 Circuit Diagram:
 
+![series Circuit sketch](https://github.com/TTropschuh/ElectronicsWithPhil/blob/master/sketch_series_circuit.PNG)
+
+![series Circuit diagram](https://github.com/TTropschuh/ElectronicsWithPhil/blob/master/schaltplan_series_circuit.PNG)
+
 ![Series Circuit in real](https://raw.githubusercontent.com/TTropschuh/ElectronicsWithPhil/master/photo_2019-11-03_11-25-05.jpg)
 
 ## Parallel circuit
@@ -44,11 +48,18 @@ So it would be better to work with a parallel circuit. Here I need a less powerf
 
 Just in case: I will use 10 Ohm Resistors for each of the LEDs.
 
-![Series Circuit in real](https://raw.githubusercontent.com/TTropschuh/ElectronicsWithPhil/master/photo_2019-11-03_11-26-27.jpg)
+![parallel Circuit sketch](https://github.com/TTropschuh/ElectronicsWithPhil/blob/master/sketch_parallel_circuit.PNG)
+
+![parallel Circuit diagram](https://github.com/TTropschuh/ElectronicsWithPhil/blob/master/Schaltplan_parallel_circuit.PNG)
+
+
+![parallel Circuit in real](https://raw.githubusercontent.com/TTropschuh/ElectronicsWithPhil/master/photo_2019-11-03_11-26-27.jpg)
 
 
 
 ## Switch built from a novel material
 
+Novel material could be anything that is conductive. I chose a penny that light up an LED.
 
-## Circuit Diagram
+![penny example](https://github.com/TTropschuh/ElectronicsWithPhil/blob/master/penny_example.jpg)
+![penny example](https://github.com/TTropschuh/ElectronicsWithPhil/blob/master/penny_sketch.jpg)
