@@ -16,9 +16,39 @@ Things a circuit needs:
 
 The parts of a simple circuit are all connected in series, but the series circuit has more components than the simple circuit, having multiple loads, and sometimes multiple sources.
 
-Example: touch.
+Example: Torch.
 
+It only has one path.  
+
+Lets build one!
+
+I wont work with an external power supply. Just my USB Port.
+Facts about my USB Port: It will supply around 5 Voltage with a current of 500 mA.
+
+But to light up 3 white LEDs I will need in total 9.9V because each of them will need 3.3V to do its job.
+Well, thats a problem..
+
+Apple example: I have 10 apples. A machine throws the amount of apples with 100 km/h. But if this machine has a pipe where the apples have to go throw, this of course is slowing the apples down, caused by friction. Maybe compareable? But I think the water example makes more sense as current is more compareable to something liquid.
+
+Circuit Diagram:
+
+![Series Circuit in real](https://raw.githubusercontent.com/TTropschuh/ElectronicsWithPhil/master/photo_2019-11-03_11-25-05.jpg)
 
 ## Parallel circuit
+
+So it would be better to work with a parallel circuit. Here I need a less powerful supply than with the series curcuit. But! I have to take care of the resistance! An LED can only handle 3.3 Voltage. When I have a power supply of 5V I need to do a little math there.
+
+(Power Supply Voltage-LED Voltage)/Current = Desired resistor value
+
+(5V - 3.3V)/0,05= 5,4 Ohm
+
+Just in case: I will use 10 Ohm Resistors for each of the LEDs.
+
+![Series Circuit in real](https://raw.githubusercontent.com/TTropschuh/ElectronicsWithPhil/master/photo_2019-11-03_11-26-27.jpg)
+
+
+
 ## Switch built from a novel material
+
+
 ## Circuit Diagram
