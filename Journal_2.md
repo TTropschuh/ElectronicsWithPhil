@@ -15,7 +15,7 @@ Arduino is not very long around but since it is easy accessible (thanks to the W
 What is very annoying to me about Arduino in general that it just breaks after a certain time. For example: I tried to build a lamp that can be triggered via an app on my phone. It works perfect but after a week or less I have to reset the arudino. Otherwise it will just turn off.
 Resume: To build things properly Arduino is the wrong tool. It is more for prototyping.
 
-### My goals of this class
+### My goals for this class
 This is why I want to gain more knowledge about electronics in general! The years before I just copy-pasted code and followed very clear instructions which I found on the internet. But if I want to make unique projects it is very unlikely that I find a proper code online. I want to be more Independent.
 
 ### Making things smart
