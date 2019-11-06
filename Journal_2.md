@@ -1,0 +1,1 @@
+Create a Journal entry that chronicles the research you're doing in other classes that you want to connect to this class. Record some of the thoughts and ideas you have about physical computing, what you might want to work on, what thoughts you have about the idea of making things "smart".
