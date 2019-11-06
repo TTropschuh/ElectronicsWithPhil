@@ -1,6 +1,6 @@
 ![ASSIGNMENT 1]()
 
-![ASSIGNMENT 2]()
+![ASSIGNMENT 2](https://github.com/TTropschuh/ElectronicsWithPhil/blob/master/1-Assignment.md)
 
 ![ASSIGNMENT 3]()
 
