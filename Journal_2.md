@@ -1,4 +1,16 @@
-ical computing
+# Journal Week 2
+
+### Main Studio/Lab Undergrad Junior Year
+
+#### Emerging Technologies.
+
+In this course we focus on different technologies and the resulting changes that we are facing in the future. My topic in detail is _Quantum Computing_ which has a huge impact on nearly every area where technology is involved.
+To visualize the impacts of quantum computing I am currently working on a website that should inform about quantum computing and show different dystopian/utopain scenarios. The interface is inspired by electronic "smart" devices like Alexa and other IOT products. The only way to interact with the website is a search bar and should imitate a kind of chat bot style.
+In one of the scenarios I try to work with an API that pulls data from a website and connects these with sensor data which I store on my own server. However, I am not planning to combine this class with my main Lab but I can definitely use the technical knowledge that I gain here.
+I would much rather make a unique project just for this course. I am very interested urban data and for us invisible things that can, with sensory help be made visible.
+Arduino is not very long around but since it is easy accessible (thanks to the WWW) the community is growing every day.
+
+### My experiences with physical computing
 
 What is very annoying to me about Arduino in general that it just breaks after a certain time. For example: I tried to build a lamp that can be triggered via an app on my phone. It works perfect but after a week or less I have to reset the arudino. Otherwise it will just turn off.
 Resume: To build things properly Arduino is the wrong tool. It is more for prototyping.
