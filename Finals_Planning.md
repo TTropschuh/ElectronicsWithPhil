@@ -23,11 +23,11 @@ List components and parts (data sheet, tutorials);
   [Nice Description](https://www.pololu.com/product/2557)
   [Data sheet](https://www.pololu.com/file/0J891/APA102C.pdf)
   [Libary for Arduino](https://github.com/pololu/apa102-arduino)
-  - Length: .5 meter
-  - 24 Bit color control
-  - Uses Serial Peripheral Interface
-  - Each LED needs 50mA
-  - Power supply 5V / 3 amps
+  Length: .5 meter
+  24 Bit color control
+  Uses Serial Peripheral Interface
+  Each LED needs 50mA
+  Power supply 5V / 3 amps
 
 -	Button
 -	Wire as antenna (selfmade)
