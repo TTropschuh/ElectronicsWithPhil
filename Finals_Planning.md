@@ -65,7 +65,7 @@ Find the description [here](https://onformative.com/work/immaterials).
 
 ## Block Diagram of Elements and Interactions
 
-![Schematic]()
+![Schematic](https://raw.githubusercontent.com/TTropschuh/ElectronicsWithPhil/master/photo_2019-11-20_16-47-58.jpg)
 
 ## Conceptual Renderings of the Project
 ![](https://raw.githubusercontent.com/TTropschuh/ElectronicsWithPhil/master/walker.png)
