@@ -30,7 +30,9 @@ List components and parts (data sheet, tutorials);
   Power supply 5V / 3 amps
 
 -	Button
--	Wire as antenna (selfmade)
+-	Wire as antenna (selfmade) 
+
+This guy already built an antenna. --> http://www.aaronalai.com/emf-detector
 -	Camera to make the Lightpainting (borrow from equipment service)
 -	External Power source [This could work.](https://www.amazon.com/Attom-Tech-Portable-External-Emergency/dp/B07JZCZSH9/ref=sxbs_sxwds-stvp?keywords=power+bank+5v+3+amp&pd_rd_i=B07JZCZSH9&pd_rd_r=137a34d2-0440-4871-900d-dd0c28478eec&pd_rd_w=BGb0X&pd_rd_wg=O6jPf&pf_rd_p=a6d018ad-f20b-46c9-8920-433972c7d9b7&pf_rd_r=A46MDZ92TSF9QRZ90Q80&qid=1574281168)
 
